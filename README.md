@@ -1,4 +1,4 @@
-akaedu.github.com
+akaedu.github.io
 ==============
 
 This repository contains the source for my personal site at
